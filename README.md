@@ -1,4 +1,4 @@
-# Project-Spring-CRUD
+# Práticando Spring Framework
 
 ## 📌 Sobre o Projeto
 Este projeto é uma aplicação desenvolvida com **Spring Boot** e **MySQL**, utilizando **Spring Data JPA** para interação com o banco de dados. O principal objetivo desse repositório é criar a base para o conhecimento de Spring
